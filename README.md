@@ -1,10 +1,10 @@
-# Amdprophet Sensu
+# Sensu Go Homebrew
 
-## How do I install these formulae?
+## How do I install these Casks?
 
-`brew install amdprophet/sensu/<formula>`
+`brew install amdprophet/sensu/<cask>`
 
-Or `brew tap amdprophet/sensu` and then `brew install <formula>`.
+Or `brew tap amdprophet/sensu` and then `brew install <cask>`.
 
 ## Documentation
 
